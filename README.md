@@ -15,3 +15,6 @@ Retreive the 4 keys and place them inside the ```twitter_api.config``` file.
 # Running the script
 Once you've done the above... you can just run the script as you regularly would.
 
+```python
+python speed_test.py
+```
